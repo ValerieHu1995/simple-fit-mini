@@ -1,6 +1,4 @@
-# s-man-1.0.7.02
-# s-user-1.0.8.17
-# s-work-1.0.7.08
+# s-man-1.0.7.02 & s-user-1.0.8.17 & s-work-1.0.7.08
 
 > A Vue.js project
 
