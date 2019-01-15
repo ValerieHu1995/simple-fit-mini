@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/login/main",
+    "pages/signin/main",
+
+    "pages/account/main",
+    "pages/wallet/main",
+
+    "pages/timetable/main",
+
+    "pages/bill/main",
+    "pages/billdetial/main",
+
+    "pages/classs/main",
+
+    "pages/list/main"
+
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "WeChat",
+    "navigationStyle": "custom",
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "light"
+  }
+}
